@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GroupAssignment1VB:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>GroupAssignment1VB</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="GroupAssignment1VB-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="GroupAssignment1VB:war exploded" />
+    </root>
+  </artifact>
+</component>
